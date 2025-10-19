@@ -598,6 +598,24 @@ Applications should gracefully handle:
 
 ---
 
+## 📚 Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{nm3_nested_markdwon_3d,
+  title = {NM3 Nested Markdown 3D: xml specification standard for NM3},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/NM3-nested-markdown-3d},
+  version = {1.0.0}
+}
+```
+
+
+
 ## Specification Version
 **NM3 v1.0**  
 Released: 2025-01-15  
